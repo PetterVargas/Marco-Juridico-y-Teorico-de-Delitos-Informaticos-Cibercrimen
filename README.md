@@ -5,7 +5,7 @@ Leyes, Normas, Estándares, Guías y Sentencias sobre Delitos Informáticos por 
 
 ## Latinoamérica
 
-* [Colombia](https://github.com/PetterVargas/marco-juridico-y-normativo-de-delitos-informaticos-cibercrimen/blob/master/README.md "Colombia")
+* [Colombia](#Colombia)
 * [Argentina]
 * [Uruguay]
 * [Chile]
@@ -20,7 +20,7 @@ Este proyecto está en progreso, si tienes normatividad que no está acá, nos p
 
 -------------
 
-## Colombia
+## Colombia #Colombia
 
 #### Marco Jurídico
 
