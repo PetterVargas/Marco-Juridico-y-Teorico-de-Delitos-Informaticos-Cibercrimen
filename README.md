@@ -30,8 +30,7 @@ Este proyecto está en progreso, si tienes normatividad que no está acá, nos p
 
 #### Marco Teórico
 
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
+  - Si conocer alguno agradecemos la información a peter.vargasg@gmail.com.
 -------------
 <p id="Argentina">
 	
@@ -39,13 +38,11 @@ Este proyecto está en progreso, si tienes normatividad que no está acá, nos p
 
 #### Marco Jurídico
 
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
+  - Si conocer alguno agradecemos la información a peter.vargasg@gmail.com.
 
 #### Marco Teórico
 
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
+  - Si conocer alguno agradecemos la información a peter.vargasg@gmail.com.
 -------------
 <p id="Uruguay">
 	
@@ -53,13 +50,11 @@ Este proyecto está en progreso, si tienes normatividad que no está acá, nos p
 
 #### Marco Jurídico
 
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
+  - Si conocer alguno agradecemos la información a peter.vargasg@gmail.com.
 
 #### Marco Teórico
 
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
+  - Si conocer alguno agradecemos la información a peter.vargasg@gmail.com.
 -------------
 <p id="Chile">
 	
@@ -67,13 +62,11 @@ Este proyecto está en progreso, si tienes normatividad que no está acá, nos p
 
 #### Marco Jurídico
 
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
+  - Si conocer alguno agradecemos la información a peter.vargasg@gmail.com.
 
 #### Marco Teórico
 
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
+  - Si conocer alguno agradecemos la información a peter.vargasg@gmail.com.
 -------------
 <p id="Mexico">
 	
@@ -81,13 +74,11 @@ Este proyecto está en progreso, si tienes normatividad que no está acá, nos p
 
 #### Marco Jurídico
 
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
+  - Si conocer alguno agradecemos la información a peter.vargasg@gmail.com.
 
 #### Marco Teórico
 
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
+  - Si conocer alguno agradecemos la información a peter.vargasg@gmail.com.
 -------------
 <p id="Ecuador">
 	
@@ -95,13 +86,11 @@ Este proyecto está en progreso, si tienes normatividad que no está acá, nos p
 
 #### Marco Jurídico
 
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
+  - Si conocer alguno agradecemos la información a peter.vargasg@gmail.com.
 
 #### Marco Teórico
 
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
+  - Si conocer alguno agradecemos la información a peter.vargasg@gmail.com.
 -------------
 <p id="Peru">
 
@@ -109,13 +98,11 @@ Este proyecto está en progreso, si tienes normatividad que no está acá, nos p
 
 #### Marco Jurídico
 
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
+  - Si conocer alguno agradecemos la información a peter.vargasg@gmail.com.
 
 #### Marco Teórico
 
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
+  - Si conocer alguno agradecemos la información a peter.vargasg@gmail.com.
 -------------
 <p id="Paraguay">
 	
@@ -123,13 +110,11 @@ Este proyecto está en progreso, si tienes normatividad que no está acá, nos p
 
 #### Marco Jurídico
 
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
+  - Si conocer alguno agradecemos la información a peter.vargasg@gmail.com.
 
 #### Marco Teórico
 
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
+  - Si conocer alguno agradecemos la información a peter.vargasg@gmail.com.
 -------------
 <p id="Panama">
 	
@@ -137,13 +122,11 @@ Este proyecto está en progreso, si tienes normatividad que no está acá, nos p
 
 #### Marco Jurídico
 
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
+  - Si conocer alguno agradecemos la información a peter.vargasg@gmail.com.
 
 #### Marco Teórico
 
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
+  - Si conocer alguno agradecemos la información a peter.vargasg@gmail.com.
 -------------
 <p id="Venezuela">
 	
@@ -151,10 +134,8 @@ Este proyecto está en progreso, si tienes normatividad que no está acá, nos p
 
 #### Marco Jurídico
 
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
+  - Si conocer alguno agradecemos la información a peter.vargasg@gmail.com.
 
 #### Marco Teórico
 
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
+  - Si conocer alguno agradecemos la información a peter.vargasg@gmail.com.
