@@ -20,9 +20,7 @@ Este proyecto está en progreso, si tienes normatividad que no está acá, nos p
 
 -------------
 
-#Colombia
-
-## Colombia #Colombia
+## Colombia
 
 #### Marco Jurídico
 
