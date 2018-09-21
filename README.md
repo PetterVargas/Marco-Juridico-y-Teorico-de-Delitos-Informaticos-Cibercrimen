@@ -5,23 +5,21 @@ Leyes, Normas, Estándares, Guías y Sentencias sobre Delitos Informáticos por 
 
 ## Latinoamérica
 
-* [Colombia](#porfin)
-* [Argentina](#Colombia)
-* [Uruguay](#Colombia)
-* [Chile](#Colombia)
-* [México](#Colombia)
-* [Ecuador](#Colombia)
-* [Perú](#Colombia)
-* [Paraguay](#Colombia)
-* [Panamá](#Colombia)
-* [Venezuela](#Colombia)
+* [Colombia](#Colombia)
+* [Argentina](#Argentina)
+* [Uruguay](#Uruguay)
+* [Chile](#Chile)
+* [México](#México)
+* [Ecuador](#Ecuador)
+* [Perú](#Peru)
+* [Paraguay](#Paraguay)
+* [Panamá](#Panama)
+* [Venezuela](#Venezuela)
 
 Este proyecto está en progreso, si tienes normatividad que no está acá, nos puedes informar en peter.vargasg@gmail.com.
 
 -------------
-<p id="porfin">Colombia</p>
-
-## Colombia
+<p id="Colombia">## Colombia/p>
 
 #### Marco Jurídico
 
