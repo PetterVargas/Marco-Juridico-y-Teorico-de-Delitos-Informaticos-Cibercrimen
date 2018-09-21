@@ -43,7 +43,7 @@ Este proyecto está en progreso, si tienes normatividad que no está acá, nos p
 
   - Import a HTML file and watch it magically convert to Markdown
   - Drag and drop images (requires your Dropbox account be linked)
-  
+-------------
 ## Uruguay
 
 #### Marco Jurídico
@@ -55,7 +55,7 @@ Este proyecto está en progreso, si tienes normatividad que no está acá, nos p
 
   - Import a HTML file and watch it magically convert to Markdown
   - Drag and drop images (requires your Dropbox account be linked)
-  
+-------------
 ## Chile
 
 #### Marco Jurídico
@@ -67,7 +67,7 @@ Este proyecto está en progreso, si tienes normatividad que no está acá, nos p
 
   - Import a HTML file and watch it magically convert to Markdown
   - Drag and drop images (requires your Dropbox account be linked)
-  
+-------------
 ## México
 
 #### Marco Jurídico
@@ -79,7 +79,7 @@ Este proyecto está en progreso, si tienes normatividad que no está acá, nos p
 
   - Import a HTML file and watch it magically convert to Markdown
   - Drag and drop images (requires your Dropbox account be linked)
-  
+-------------
 ## Ecuador
 
 #### Marco Jurídico
@@ -91,7 +91,7 @@ Este proyecto está en progreso, si tienes normatividad que no está acá, nos p
 
   - Import a HTML file and watch it magically convert to Markdown
   - Drag and drop images (requires your Dropbox account be linked)
-  
+-------------
 ## Perú
 
 #### Marco Jurídico
@@ -103,7 +103,7 @@ Este proyecto está en progreso, si tienes normatividad que no está acá, nos p
 
   - Import a HTML file and watch it magically convert to Markdown
   - Drag and drop images (requires your Dropbox account be linked)
-  
+-------------
 ## Paraguay
 
 #### Marco Jurídico
@@ -115,7 +115,7 @@ Este proyecto está en progreso, si tienes normatividad que no está acá, nos p
 
   - Import a HTML file and watch it magically convert to Markdown
   - Drag and drop images (requires your Dropbox account be linked)
-  
+-------------
 ## Panamá
 
 #### Marco Jurídico
@@ -127,7 +127,7 @@ Este proyecto está en progreso, si tienes normatividad que no está acá, nos p
 
   - Import a HTML file and watch it magically convert to Markdown
   - Drag and drop images (requires your Dropbox account be linked)
-  
+-------------
 ## Venezuela
 
 #### Marco Jurídico
@@ -139,4 +139,3 @@ Este proyecto está en progreso, si tienes normatividad que no está acá, nos p
 
   - Import a HTML file and watch it magically convert to Markdown
   - Drag and drop images (requires your Dropbox account be linked)
-
