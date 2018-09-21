@@ -6,15 +6,15 @@ Leyes, Normas, Estándares, Guías y Sentencias sobre Delitos Informáticos por 
 ## Latinoamérica
 
 * [Colombia](#Colombia)
-* [Argentina]
-* [Uruguay]
-* [Chile]
-* [México]
-* [Ecuador]
-* [Perú]
-* [Paraguay]
-* [Panamá]
-* [Venezuela]
+* [Argentina](#Colombia)
+* [Uruguay](#Colombia)
+* [Chile](#Colombia)
+* [México](#Colombia)
+* [Ecuador](#Colombia)
+* [Perú](#Colombia)
+* [Paraguay](#Colombia)
+* [Panamá](#Colombia)
+* [Venezuela](#Colombia)
 
 Este proyecto está en progreso, si tienes normatividad que no está acá, nos puedes informar en peter.vargasg@gmail.com.
 
@@ -24,7 +24,7 @@ Este proyecto está en progreso, si tienes normatividad que no está acá, nos p
 
 #### Marco Jurídico
 
-  - Import a HTML file and watch it magically convert to Markdown
+  - Ley 1273 de 2009 - Por medio de la cual se modifica el Código Penal, se crea un nuevo bien jurídico tutelado - denominado "de la protección de la información y de los datos"- y se preservan integralmente los sistemas que utilicen las tecnologías de la información y las comunicaciones, entre otras disposiciones
   - Drag and drop images (requires your Dropbox account be linked)
 
 #### Marco Teórico
