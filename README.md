@@ -5,7 +5,7 @@ Leyes, Normas, Estándares, Guías y Sentencias sobre Delitos Informáticos por 
 
 ## Latinoamérica
 
-* [Colombia][arbitrary case-insensitive reference text]
+* [Colombia](arbitrary case-insensitive reference text)
 * [Argentina](#Colombia)
 * [Uruguay](#Colombia)
 * [Chile](#Colombia)
