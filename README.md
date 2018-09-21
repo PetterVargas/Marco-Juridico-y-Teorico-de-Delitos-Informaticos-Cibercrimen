@@ -19,7 +19,9 @@ Leyes, Normas, Estándares, Guías y Sentencias sobre Delitos Informáticos por 
 Este proyecto está en progreso, si tienes normatividad que no está acá, nos puedes informar en peter.vargasg@gmail.com.
 
 -------------
-<p id="Colombia">## Colombia/p>
+<p id="Colombia">
+
+## Colombia
 
 #### Marco Jurídico
 
