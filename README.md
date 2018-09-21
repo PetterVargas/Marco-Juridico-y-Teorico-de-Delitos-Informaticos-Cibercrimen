@@ -4,10 +4,11 @@ _Conoce más de nuestros proyectos en [Peter Vargas](https://petervargas.com):_
 Leyes, Normas, Estándares, Guías y Sentencias sobre Delitos Informáticos por países
 
 
+
 ### Latinoamérica
 -------------
 
-* [Colombia]
+* [Colombia](https://petervargas.com)
 * [Argentina]
 * [Uruguay]
 * [Chile]
