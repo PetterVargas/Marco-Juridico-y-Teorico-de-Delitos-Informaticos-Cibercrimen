@@ -1,2 +1,2 @@
 # Marco Jurídico y Normativo de Delitos Informáticos (Cibercrimen)
-Normas Jurídicas y Leyes sobre Delitos Informáticos por países
+Leyes, Normas, Estándares, Guías y Sentencias sobre Delitos Informáticos por países
