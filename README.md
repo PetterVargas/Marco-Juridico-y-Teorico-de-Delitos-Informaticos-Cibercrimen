@@ -24,8 +24,8 @@ Este proyecto está en progreso, si tienes normatividad que no está acá, nos p
 
 #### Marco Jurídico
 
-  - Ley 1273 de 2009 - Por medio de la cual se modifica el Código Penal, se crea un nuevo bien jurídico tutelado - denominado "de la protección de la información y de los datos"- y se preservan integralmente los sistemas que utilicen las tecnologías de la información y las comunicaciones, entre otras disposiciones
-  - Drag and drop images (requires your Dropbox account be linked)
+  - Ley 1273 de 2009 - Por medio de la cual se modifica el Código Penal, se crea un nuevo bien jurídico tutelado - denominado "de la protección de la información y de los datos - y se preservan integralmente los sistemas que utilicen las tecnologías de la información y las comunicaciones, entre otras disposiciones.
+  - Ley 1336 de 2009 - Por medio de la cual se adiciona y robustece la Ley 679 de 2001, de lucha contra la explotación, la pornografía y el turismo sexual con niños, niñas y adolescentes.
 
 #### Marco Teórico
 
@@ -33,7 +33,7 @@ Este proyecto está en progreso, si tienes normatividad que no está acá, nos p
   - Drag and drop images (requires your Dropbox account be linked)
 -------------
 ## Argentina
--------------
+
 #### Marco Jurídico
 
   - Import a HTML file and watch it magically convert to Markdown
