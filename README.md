@@ -9,7 +9,7 @@ Leyes, Normas, Estándares, Guías y Sentencias sobre Delitos Informáticos por 
 * [Argentina](#Argentina)
 * [Uruguay](#Uruguay)
 * [Chile](#Chile)
-* [México](#México)
+* [México](#Mexico)
 * [Ecuador](#Ecuador)
 * [Perú](#Peru)
 * [Paraguay](#Paraguay)
