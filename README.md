@@ -5,16 +5,17 @@ Leyes, Normas, Estándares, Guías y Sentencias sobre Delitos Informáticos por 
 
 
 ### Latinoamérica
+-------------
 
-* Colombia
-* Argentina
-* Uruguay
-* Chile
-* México
-* Panamá
-* Venezuela
-* Ecuador
-* Perú
-* Paraguay
+* [Colombia]
+* [Argentina]
+* [Uruguay]
+* [Chile]
+* [México]
+* [Panamá]
+* [Venezuela]
+* [Ecuador]
+* [Perú]
+* [Paraguay]
 
 Este proyecto está en progreso, si tienes normatividad que no está acá, nos puedes informar en peter.vargasg@gmail.com.
