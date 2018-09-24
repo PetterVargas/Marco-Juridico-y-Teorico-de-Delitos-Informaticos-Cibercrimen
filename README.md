@@ -6,19 +6,20 @@ Leyes, Normas, Estándares, Guías y Sentencias sobre Delitos Informáticos por 
 ## Latinoamérica
 
 * [Colombia](#Colombia)
-* [Argentina](#Colombia)
-* [Uruguay](#Colombia)
-* [Chile](#Colombia)
-* [México](#Colombia)
-* [Ecuador](#Colombia)
-* [Perú](#Colombia)
-* [Paraguay](#Colombia)
-* [Panamá](#Colombia)
-* [Venezuela](#Colombia)
+* [Argentina](#Argentina)
+* [Uruguay](#Uruguay)
+* [Chile](#Chile)
+* [México](#Mexico)
+* [Ecuador](#Ecuador)
+* [Perú](#Peru)
+* [Paraguay](#Paraguay)
+* [Panamá](#Panama)
+* [Venezuela](#Venezuela)
 
 Este proyecto está en progreso, si tienes normatividad que no está acá, nos puedes informar en peter.vargasg@gmail.com.
 
 -------------
+<p id="Colombia">
 
 ## Colombia
 
@@ -29,113 +30,112 @@ Este proyecto está en progreso, si tienes normatividad que no está acá, nos p
 
 #### Marco Teórico
 
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
+  - Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
 -------------
+<p id="Argentina">
+	
 ## Argentina
 
 #### Marco Jurídico
 
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
+  - Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
 
 #### Marco Teórico
 
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
+  - Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
 -------------
+<p id="Uruguay">
+	
 ## Uruguay
 
 #### Marco Jurídico
 
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
+  - Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
 
 #### Marco Teórico
 
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
+  - Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
 -------------
+<p id="Chile">
+	
 ## Chile
 
 #### Marco Jurídico
 
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
+  - Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
 
 #### Marco Teórico
 
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
+  - Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
 -------------
+<p id="Mexico">
+	
 ## México
 
 #### Marco Jurídico
 
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
+  - Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
 
 #### Marco Teórico
 
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
+  - Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
 -------------
+<p id="Ecuador">
+	
 ## Ecuador
 
 #### Marco Jurídico
 
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
+  - Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
 
 #### Marco Teórico
 
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
+  - Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
 -------------
+<p id="Peru">
+
 ## Perú
 
 #### Marco Jurídico
 
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
+  - Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
 
 #### Marco Teórico
 
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
+  - Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
 -------------
+<p id="Paraguay">
+	
 ## Paraguay
 
 #### Marco Jurídico
 
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
+  - Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
 
 #### Marco Teórico
 
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
+  - Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
 -------------
+<p id="Panama">
+	
 ## Panamá
 
 #### Marco Jurídico
 
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
+  - Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
 
 #### Marco Teórico
 
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
+  - Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
 -------------
+<p id="Venezuela">
+	
 ## Venezuela
 
 #### Marco Jurídico
 
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
+  - Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
 
 #### Marco Teórico
 
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
+  - Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
