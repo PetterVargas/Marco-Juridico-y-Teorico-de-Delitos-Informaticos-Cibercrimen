@@ -27,7 +27,7 @@ Este proyecto está en progreso, si tienes normatividad que no está acá, nos p
 
 <p id="delitosinformaticos">
 	
-### Marco Jurídico - Delitos Informáticos
+#### Marco Jurídico - Delitos Informáticos
 
   - [Ley 1273 de 2009](https://github.com/PetterVargas/Marco-Juridico-y-Teorico-de-Delitos-Informaticos-Cibercrimen/blob/master/Colombia/Ley%201273%20de%202009%20-%20Se%20crea%20el%20bien%20jur%C3%ADdico%20tutelado%20De%20la%20Protecci%C3%B3n%20de%20la%20Informaci%C3%B3n%20y%20de%20los%20Datos.pdf) - Por medio de la cual se modifica el Código Penal, se crea un nuevo bien jurídico tutelado - denominado "de la protección de la información y de los datos - y se preservan integralmente los sistemas que utilicen las tecnologías de la información y las comunicaciones, entre otras disposiciones.
   - [Ley 527 de 1999](https://github.com/PetterVargas/Marco-Juridico-y-Teorico-de-Delitos-Informaticos-Cibercrimen/blob/master/Colombia/Ley%20527%20de%201999%20-%20Se%20define%20y%20reglamenta%20el%20acceso%20y%20uso%20de%20los%20mensajes%20de%20datos%2C%20del%20comercio%20electr%C3%B3nico%20y%20de%20las%20firmas%20digitales.pdf) - Por medio de la cual se define y reglamenta el acceso y uso de los mensajes de datos, del comercio electrónico y de las firmas digitales, y se establecen las entidades de certificación y se dictan otras disposiciones.
