@@ -25,8 +25,8 @@ Este proyecto está en progreso, si tienes normatividad que no está acá, nos p
 
 ## Colombia
 
--------------
 <p id="delitosinformaticos">
+	
 ### Marco Jurídico
 
   - [Ley 1273 de 2009](https://github.com/PetterVargas/Marco-Juridico-y-Teorico-de-Delitos-Informaticos-Cibercrimen/blob/master/Colombia/Ley%201273%20de%202009%20-%20Se%20crea%20el%20bien%20jur%C3%ADdico%20tutelado%20De%20la%20Protecci%C3%B3n%20de%20la%20Informaci%C3%B3n%20y%20de%20los%20Datos.pdf) - Por medio de la cual se modifica el Código Penal, se crea un nuevo bien jurídico tutelado - denominado "de la protección de la información y de los datos - y se preservan integralmente los sistemas que utilicen las tecnologías de la información y las comunicaciones, entre otras disposiciones.
