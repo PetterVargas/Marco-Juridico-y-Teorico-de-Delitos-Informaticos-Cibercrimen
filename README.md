@@ -5,9 +5,9 @@ Leyes, Normas, Estándares, Guías y Sentencias sobre Delitos Informáticos por 
 
 ## Latinoamérica
 
-* [Colombia](#Colombia)
-[Marco Jurídico -  Delitos Informáticos](#delitosinformaticos)
-[Marco Jurídico -  Niñas, Niños y Adolescentes](#menores)
+* [Colombia](#Colombia)<p>
+[Marco Jurídico -  Delitos Informáticos](#delitosinformaticos)<p>
+[Marco Jurídico -  Niñas, Niños y Adolescentes](#menores)<p>
 * [Argentina](#Argentina)
 * [Uruguay](#Uruguay)
 * [Chile](#Chile)
