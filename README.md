@@ -25,6 +25,7 @@ Este proyecto está en progreso, si tienes normatividad que no está acá, nos p
 
 ## Colombia
 
+-------------
 <p id="delitosinformaticos">
 ### Marco Jurídico
 
